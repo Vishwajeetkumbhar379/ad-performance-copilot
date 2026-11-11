@@ -2,6 +2,8 @@
 
 **The Monday paid-media review, done before the stand-up.**
 
+![Real output from the sample data included in this repo](docs/demo.png)
+
 Export last month's results from Meta Ads, Google Ads and LinkedIn Ads into one CSV. The copilot calculates the numbers that matter, spots the problems a busy media buyer misses, and proposes how to move budget next week. Optionally, Claude writes the client summary.
 
 ```
